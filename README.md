@@ -3,7 +3,7 @@ Matlab script file: Linear ARX model in dimensional emotion recognition (Arousal
 
 To get the code working, you would need to obtain the RECOLA database and extract features by OpenSmile by yourself.
 
-Related publishment: Ouyang, A., Dang, T., Sethu, V., and Ambikairajah, E., (accepted 2019), "Speech Based Emotion Prediction: Can a Linear Model Work?", in INTERSPEECH, 2019.
+Related paper: Ouyang, A., Dang, T., Sethu, V., and Ambikairajah, E., (accepted 2019), "Speech Based Emotion Prediction: Can a Linear Model Work?", in INTERSPEECH, 2019.
 
 ResearchGate: https://www.researchgate.net/publication/335159915_Speech_Based_Emotion_Prediction_Can_a_Linear_Model_Work
 
